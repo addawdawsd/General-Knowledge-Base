@@ -11,3 +11,6 @@ Desktop.ini
 # IDE / tooling
 .vscode/
 .idea/
+
+# duplicate mirror removed from repo
+origin/
