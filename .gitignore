@@ -1,0 +1,13 @@
+# Obsidian local workspace data (not knowledge-base content)
+.obsidian/
+
+# OS / editor junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*~
+
+# IDE / tooling
+.vscode/
+.idea/
